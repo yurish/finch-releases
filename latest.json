@@ -1,15 +1,11 @@
 {
   "version": "0.2.0",
   "notes": "Initial release with auto-update support.",
-  "pub_date": "2025-11-27T12:00:00Z",
+  "pub_date": "2025-11-28T09:00:00Z",
   "platforms": {
-    "darwin-x86_64": {
-      "url": "https://github.com/yurish/finch-releases/releases/download/v0.2.0/finch_x64.app.tar.gz",
-      "signature": "PLACEHOLDER_SIGNATURE"
-    },
     "darwin-aarch64": {
       "url": "https://github.com/yurish/finch-releases/releases/download/v0.2.0/finch_aarch64.app.tar.gz",
-      "signature": "PLACEHOLDER_SIGNATURE"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUlFZZ2N1OUxPRFRFNFJ0Nk5vYS9uVHhXaEY3SjFWczZzUFVrNk5MQWZsNTlWVjFnaEF5VlQwRW5CSUczMzhxYlhiS1RkbllVYXlLQkw3WkNTNG82MWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MzEzMTYwCWZpbGU6ZmluY2guYXBwLnRhci5negpQUjJNWThTMVJ3ejVsNjczS3NCdXhSYzJkZVdtQTZKTUtjQTBEZnJNcjd5NklxcWxUTTZ2UUpES1RsbUt6d3BuMHh1QTFDNDN1SkluQm9Qa1gyS1NCdz09Cg=="
     }
   }
 }
