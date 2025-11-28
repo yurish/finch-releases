@@ -49,7 +49,7 @@
 
 ## Download
 
-Download the latest version from [Releases](https://github.com/niceperson/finch-releases/releases).
+Download the latest version from [Releases](https://github.com/yurish/finch-releases/releases).
 
 ---
 
