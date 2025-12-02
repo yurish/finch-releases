@@ -1,18 +1,18 @@
 {
-  "version": "0.4.2",
-  "notes": "Release v0.4.2",
-  "pub_date": "2025-12-02T11:01:06Z",
+  "version": "0.4.3",
+  "notes": "Release v0.4.3",
+  "pub_date": "2025-12-02T12:20:02Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/yurish/finch-releases/releases/download/v0.4.2/finch_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUlV4dlpYOVFEaWlVWVp6MHpHNWNEOGY4eFpiWWloZHgwVHV6cE1FSm1acnZBSnNXcFdrSCtlWlBUbzNVaWt0Yjg3aDBvcU5OUFNWRU11djZnTmcvT1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0NjcyNzMwCWZpbGU6ZmluY2guYXBwLnRhci5negpCY3pJNW1UdjB5U2JxWTQxZVQ4d3RFMkFKNDFxdFpFTldCZW9GTTdhd0g4UFBjWTBJcjkzLytUVUUwbzEzNVVKYWhlWFdzcm9SL1VWbk1VTmpySGJDdz09Cg=="
+      "url": "https://github.com/yurish/finch-releases/releases/download/v0.4.3/finch_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUlVVekxKdUpmb3JiZDBxVUNjT3NKcXNRODY0VnI1d09GbFg2UXIwQ1VxYXFvVHpOQmFJUUlPd3F5WisrTU1MVmgrQ1Z3eXpvM1Z2TlRmVEZnc1FZTUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0Njc3NDAyCWZpbGU6ZmluY2guYXBwLnRhci5negorOGVmTmRveXhYYnhjb1FnVEtYTzNLZHJoaXJZVkVQZ29sZGRtYjdKRi81WmFELzY4aGFBR0hQUTlXS3BsbTRvdHlpeDhQaCtGZ3p6SU5QYVFjaHdDdz09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/yurish/finch-releases/releases/download/v0.4.2/finch_x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUmFoSUNPSEdQRW9JcnM0VU5xUnI4ZFkvQm40cVI5TDRtVGp4NGV5R2xjTjBNWnRLYVRFQUdIOVBjZFBHMzFtRXdBZExRemd6ajdXZHJZbFlCNWlIMkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0NjcyNzgzCWZpbGU6ZmluY2guYXBwLnRhci5negpWVmdnUmdoaklsZS9oYk1mcUpKT2lBODVLa1hVUXNENjFTcVc5Y20yd05BVFdIWlo0ZXVsZ0hhcStkOUxUb1V2cU1CQVN4WEdXcWNDWHFGci8ydGtEdz09Cg=="
+      "url": "https://github.com/yurish/finch-releases/releases/download/v0.4.3/finch_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUmZSM3BDMzh6bWVwcTI5RFZhdzFhSlBLQmdnQ1dOekt2Um9mMnZDVnNtRnhvS0pvY1QzQVZlbjk2Z1NJSyt3Z0VabW1wU0Q0TzFweWtaVnR3OXhZaUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0Njc3NDQyCWZpbGU6ZmluY2guYXBwLnRhci5negpEeW1uWjlELzBpd3lrSjU5S0VaWU5DRWdXak51QnRZdTRjQzRWR3c5RmVacVVWbVQ1UlF4U2t1VTI4QmhjeE9hRGtZMklwa0FmZU8yTUE2NDNDdW1CQT09Cg=="
     },
     "windows-x86_64": {
-      "url": "https://github.com/yurish/finch-releases/releases/download/v0.4.2/finch_x64-setup.nsis.zip",
+      "url": "https://github.com/yurish/finch-releases/releases/download/v0.4.3/finch_x64-setup.nsis.zip",
       "signature": ""
     }
   }
