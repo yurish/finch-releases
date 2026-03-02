@@ -1,18 +1,18 @@
 {
-  "version": "0.5.0",
-  "notes": "### Features\n- Add task search functionality\n- Add date format setting to customize due date display\n- Add context menu to Follow-up section tasks\n\n### Bug Fixes\n- Fix app restart after update by adding process:allow-restart permission\n- Fix calendar showing wrong date due to UTC conversion\n- Fix due date display in Waiting For section\n\n### UI Improvements\n- Use muted text color for project groups in sidebar\n\n### Infrastructure\n- Add release notes JSON file with workflow validation\n",
-  "pub_date": "2025-12-03T11:39:53Z",
+  "version": "0.6.0",
+  "notes": "### Features\n- Add task notes with task view modal for detailed task information\n- Add \"Add to Plan\" context menu item to project and follow-up views\n- Show project name and icon on Plan task cards\n\n### UI Improvements\n- Redesign follow-up section with side-by-side columns layout\n- Rework settings UI to accordion layout with header\n\n### Infrastructure\n- Add startup script for development\n",
+  "pub_date": "2026-03-02T11:30:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/yurish/finch-releases/releases/download/v0.5.0/finch_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUmFqaFM5eXZhU29hbW5pV01vTE0zRHZOWGN4cWJyVmU2ek1YQzhORWNUN3MwNDkvTmRyV0QwNVJnSkdJVUI4dEVIM2oyMTlRVnhKL1hvRG9ab0N5VUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0NzYxMzM5CWZpbGU6ZmluY2guYXBwLnRhci5negpteHlZdWxPOElhNWJ1ajcxVTFTVDBydEtjZ0V2MmJINGtsWnNYcmFxZ2svOHVJT1dCM2NWZ2FCL2Q0RitOd1NLWjdLVms0S29pakhMS25WNCtnUmtDdz09Cg=="
+      "url": "https://github.com/yurish/finch-releases/releases/download/v0.6.0/finch_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUldMUDc4clBPSTczamRQQzRNK3Bmb3dsMnhxSHhiRit3b00vMmFPZGRUcmpIU1pRNEt2bnJIOTMra1RpOWJWaXg3Z2NRS1Vkd2hIVm14Vi9FalNQeEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDQ5NzEwCWZpbGU6ZmluY2guYXBwLnRhci5negpsT001bGs2algvK0xsWTUrQmJnTnJ5b0ZxOE1BaVJ1eDNIbXBsVER0TWhIS2FwNFZFclRpZDNoRTZtd1FPZ2oyRGtsR1lvc1c2Ti90Z3ptTHNacDNCZz09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/yurish/finch-releases/releases/download/v0.5.0/finch_x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUmFiYjR0NWVrdFdYOGN5eVRnQy9EK3YyeWp3L25rVy8zNFRIa3d2SXF5SkVGalUrUi9UcmZWZEREdVBwRGRLV3cxcUtEY0Y3TFZ5bUxSNTlSMXlwSUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0NzYxNDA0CWZpbGU6ZmluY2guYXBwLnRhci5negprNkQvOXpvWWFxS2hHTFd5aE1Ta0RheTcvdkw3MlpOU29YcFYrRmZ1aStwa29IOTJLTEpDSC9Wa2wxbDBOZDdYWEx0YkJiMXVqWXROZmJWK1M1c21EQT09Cg=="
+      "url": "https://github.com/yurish/finch-releases/releases/download/v0.6.0/finch_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUmFJeXVncHlTWjJRTDBkK3laQzU4R2xGd3hBb3ZLbVl0S3djNUV6UVNMS0pqVWduNzU3cWRYdVAwQTNQdy9xZTY2blN0M01neHg2T3BsNVRmaGNIT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDQ5NzE5CWZpbGU6ZmluY2guYXBwLnRhci5negovRENPdnZGekJOOTBIU09HOUdhWXNjTnprSytHUEg0UEVjQ1FDaDlrKzNXeVhtVm9RVmJBTlpXY1Yxb0RvUWZDMC9KZHpEYnVqMjJaN1VxZXFSeDBDZz09Cg=="
     },
     "windows-x86_64": {
-      "url": "https://github.com/yurish/finch-releases/releases/download/v0.5.0/finch_x64-setup.nsis.zip",
+      "url": "https://github.com/yurish/finch-releases/releases/download/v0.6.0/finch_x64-setup.nsis.zip",
       "signature": ""
     }
   }
