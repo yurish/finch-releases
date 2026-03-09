@@ -1,18 +1,18 @@
 {
-  "version": "0.6.0",
-  "notes": "### Features\n- Add task notes with task view modal for detailed task information\n- Add \"Add to Plan\" context menu item to project and follow-up views\n- Show project name and icon on Plan task cards\n\n### UI Improvements\n- Redesign follow-up section with side-by-side columns layout\n- Rework settings UI to accordion layout with header\n\n### Infrastructure\n- Add startup script for development\n",
-  "pub_date": "2026-03-02T11:30:34Z",
+  "version": "0.7.0",
+  "notes": "### Features\n- Add file attachments to tasks (up to 100MB per file)\n- Drag and drop files onto task view to attach\n- Download attachments to custom location\n- Open attachments with default system app\n- Delete notes from task view\n\n### UI Improvements\n- Larger task view modal (750px wide, 90vh height)\n- Scrollable notes section (300px height)\n",
+  "pub_date": "2026-03-09T10:00:18Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/yurish/finch-releases/releases/download/v0.6.0/finch_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUldMUDc4clBPSTczamRQQzRNK3Bmb3dsMnhxSHhiRit3b00vMmFPZGRUcmpIU1pRNEt2bnJIOTMra1RpOWJWaXg3Z2NRS1Vkd2hIVm14Vi9FalNQeEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDQ5NzEwCWZpbGU6ZmluY2guYXBwLnRhci5negpsT001bGs2algvK0xsWTUrQmJnTnJ5b0ZxOE1BaVJ1eDNIbXBsVER0TWhIS2FwNFZFclRpZDNoRTZtd1FPZ2oyRGtsR1lvc1c2Ti90Z3ptTHNacDNCZz09Cg=="
+      "url": "https://github.com/yurish/finch-releases/releases/download/v0.7.0/finch_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUlNUenU5c09OWXRhT2JwZlNnbTZXcGxhanVOQUxZYTBXNEthY0Zta3V1UFE1NTRCUDlOUlh5U0w0Z2hlQytnYUpROTB4ZExlWFhkZkltZlBGK3NDZ0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDQ5NzcyCWZpbGU6ZmluY2guYXBwLnRhci5negpSRGRIYnQ1UmZWUVI5b29pN1lyL3FrZS8rNUZ1Ty9ad0hiZCt3VjdwNnFSeFdNWk1pZWVWbUJqL1ZaWGVsS0d6ZzcwUmVqR0FnVXVuSHVqbSt0bVBBQT09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/yurish/finch-releases/releases/download/v0.6.0/finch_x64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUmFJeXVncHlTWjJRTDBkK3laQzU4R2xGd3hBb3ZLbVl0S3djNUV6UVNMS0pqVWduNzU3cWRYdVAwQTNQdy9xZTY2blN0M01neHg2T3BsNVRmaGNIT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDQ5NzE5CWZpbGU6ZmluY2guYXBwLnRhci5negovRENPdnZGekJOOTBIU09HOUdhWXNjTnprSytHUEg0UEVjQ1FDaDlrKzNXeVhtVm9RVmJBTlpXY1Yxb0RvUWZDMC9KZHpEYnVqMjJaN1VxZXFSeDBDZz09Cg=="
+      "url": "https://github.com/yurish/finch-releases/releases/download/v0.7.0/finch_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMnJicmVlOEFrUmRxcVovaXpvWkRQNzVLV0hjT3BpZ1dUQkFPeDh3NlQ2RjVVUktUUnN0Wkk3NEFpbGxkTFpobHVtOWZzVWZMRStnTXVUb1NXQzlWYXdCbjQ2elZhSkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDQ5Nzg3CWZpbGU6ZmluY2guYXBwLnRhci5nego5Rko0UmFOd1JNZlE4elNVWkxrR2Y0ZkNYcWdJemxBUHIwQ3NCZ2pEWU4zTWRYVmU0WENHbHdaQ1ZubWZmcE1zZWN0SDQ2QW1GUm5NRnZKeWlDS3RCdz09Cg=="
     },
     "windows-x86_64": {
-      "url": "https://github.com/yurish/finch-releases/releases/download/v0.6.0/finch_x64-setup.nsis.zip",
+      "url": "https://github.com/yurish/finch-releases/releases/download/v0.7.0/finch_x64-setup.nsis.zip",
       "signature": ""
     }
   }
